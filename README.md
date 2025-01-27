@@ -11,6 +11,8 @@ Blood cancer, specifically acute lymphoblastic leukemia (ALL), is a critical hea
 - Pre-B
 - Pro-B
 
+---
+
 ### Key Features:
 - **Transfer Learning:** Utilized the ConvNeXt Tiny model pre-trained on ImageNet.
 - **Image Augmentation:** Enhanced dataset variability with techniques like random flipping, rotation, and brightness adjustment.
