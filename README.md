@@ -16,7 +16,6 @@ Blood cancer, specifically acute lymphoblastic leukemia (ALL), is a critical hea
 - **Image Augmentation:** Enhanced dataset variability with techniques like random flipping, rotation, and brightness adjustment.
 - **Performance Metrics:** Achieved a test accuracy of **98.36%**, with detailed evaluation using precision, recall, and F1-score.
 
----
 
 ## Dataset
 
@@ -80,13 +79,6 @@ The ConvNeXt Tiny model outperformed other architectures such as ResNet152v2, VG
 - **Model Ensembling:** Combining multiple models for improved accuracy.
 - **Dataset Expansion:** Incorporating additional imaging modalities for greater robustness.
 
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## Acknowledgments
 
